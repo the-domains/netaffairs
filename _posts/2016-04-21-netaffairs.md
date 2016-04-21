@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: Netaffairs
-datePublished: '2016-04-21T14:58:18.755Z'
-dateModified: '2016-04-21T14:52:48.636Z'
+datePublished: '2016-04-21T15:20:14.081Z'
+dateModified: '2016-04-21T15:19:26.244Z'
 title: ''
 author: []
+sourcePath: _posts/2016-04-21-netaffairs.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-04-21-netaffairs.md
-published: true
 url: netaffairs/index.html
 _type: Article
 
