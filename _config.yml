@@ -1,0 +1,28 @@
+name: Netaffairs
+favicon: null
+layout_spectrum: 0.28344306466169655
+typography_spectrum: 0.38536312570795417
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.13171926070936024
+  lightness: 0.90705132833682
+  saturation: 0.029766869265586138
+  rhythmicContrast: 0.7256863117218018
+purpose: []
